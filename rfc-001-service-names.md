@@ -2,7 +2,7 @@
 
 ## Summary
 
-A proposal to introduce a standard for creating published service URL names.
+This is a proposal to introduce a standard for creating published service URL names.
 
 ## Problem
 

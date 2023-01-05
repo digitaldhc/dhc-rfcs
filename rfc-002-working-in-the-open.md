@@ -45,7 +45,7 @@ This list comes from [@richardjpope](https://twitter.com/richardjpope/status/148
 * design histories;
 * user journeys;
 * lists of services;
-* lists of databases and data fields;
+* lists of databases and data fields; [RC: see note 1]
 * lists of projects;
 * data models and architecture;
 * lists of risks and mitigations;

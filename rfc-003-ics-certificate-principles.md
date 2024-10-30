@@ -30,5 +30,5 @@ The proposal of this RFC is that organisations within the ICS discuss and agree 
 
 * that organisations undertake to issue certificates from an external certificate authority where this is feasible;
 * that where hosting organisations continue to use internally issued certificates they make their CA certificate available to partner organisations, potentially via a shared secure website;
-* that client organisations import and renew the CA certificates of hosting organisations as required to ensure security certificates remain valid;
+* that client organisations import and renew the CA certificates of hosting organisations as required, and proactively manage the lifecycle of the certificates they hold to ensure security certificates remain valid;
 * that all organisations undertake to advise staff to not by default accept untrusted security certificates.
